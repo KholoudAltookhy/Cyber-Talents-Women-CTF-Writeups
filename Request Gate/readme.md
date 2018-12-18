@@ -6,7 +6,7 @@ You open the given URL to find a blank page.
 
 ![1](https://user-images.githubusercontent.com/32056749/50160149-3a44df00-02e1-11e9-816b-5492659e199f.png)
 
-Using burp we found the below respond.
+Using burp we found the below response.
 
 ![2](https://user-images.githubusercontent.com/32056749/50162967-281a6f00-02e8-11e9-87c4-4e716993c6b0.png)
 
